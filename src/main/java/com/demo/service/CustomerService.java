@@ -10,7 +10,7 @@ import com.demo.model.Customer;
 public class CustomerService {
 
     public Customer printCustomer() {
-        Customer customer = new Customer(1, "Praneet Debnath", "Kolkata");
+        Customer customer = new Customer(1, "Praneet Debnath", "Hyderabad");
         return customer;
     }
 }
