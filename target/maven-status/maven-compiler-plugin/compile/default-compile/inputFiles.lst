@@ -2,3 +2,8 @@ C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java
 C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\springstartproject\SpringStartProjectApplication.java
 C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\controller\CustomerController.java
 C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\service\CustomerService.java
+C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\model\Person.java
+C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\config\MongoConfig.java
+C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\repository\PersonRepository.java
+C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\controller\PersonController.java
+C:\Users\prane\Documents\Spring Boot Projects\spring-start-project\src\main\java\com\demo\service\PersonService.java

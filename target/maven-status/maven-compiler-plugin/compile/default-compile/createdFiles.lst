@@ -1,4 +1,9 @@
-com\demo\controller\CustomerController.class
+com\demo\controller\PersonController.class
 com\demo\model\Customer.class
-com\demo\springstartproject\SpringStartProjectApplication.class
+com\demo\repository\PersonRepository.class
 com\demo\service\CustomerService.class
+com\demo\config\MongoConfig.class
+com\demo\service\PersonService.class
+com\demo\controller\CustomerController.class
+com\demo\springstartproject\SpringStartProjectApplication.class
+com\demo\model\Person.class
