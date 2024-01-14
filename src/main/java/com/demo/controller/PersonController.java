@@ -10,6 +10,7 @@ import com.demo.service.PersonService;
 import java.util.List;
 
 @RestController
+@CrossOrigin
 @RequestMapping("/api/persons")
 public class PersonController {
 
